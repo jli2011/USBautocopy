@@ -1,4 +1,4 @@
-# USBautocopy
+# USB AutoCopy
 
 USB AutoCopy is a program that is set to run at startup and copies all files from any external device automatically to the local host. For example, when a user plugs in a USB, the program automatically copies and saves all the contents of that USB locally. That path of the copied files can be manually set by the user. See instructions below:
 
