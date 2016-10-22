@@ -48,6 +48,8 @@ Save your changes and reboot the system. After it restarts, plug in an external 
 
 The program also works with Bash. If you prefer Bash, simply do the following:
 
+```
 Change #!/bin/sh to #!/bin/bash.
 Change the name from mediacopy.sh to mediacopy.bash.
 Update the filename in Cron.
+```
