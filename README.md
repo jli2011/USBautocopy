@@ -23,7 +23,7 @@ Once you are done, save the file as “mediacopy.sh”. I saved mines in my Docu
 
 ![Alt text](https://jiajieli.files.wordpress.com/2016/10/screenshot-from-2016-10-05-10_00_10.png)
 
-screenshot-from-2016-10-05-10_00_10If that option is not available, you can do the same thing by using the chmod command in terminal. First, cd to your file directory and execute the following command:
+If that option is not available, you can do the same thing by using the chmod command in terminal. First, cd to your file directory and execute the following command:
 
 chmod +x mediacopy.sh
 
