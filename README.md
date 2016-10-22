@@ -4,12 +4,15 @@ USB AutoCopy is a program that is set to run at startup and copies all files fro
 
 First, create a new text file in your documents folder and paste the following code:
 
-"#!/bin/sh
+#!/bin/sh
 
 while(true)
+
 do
+
     cp -r /media/root ~/Downloads
-done"
+    
+done
 
 The cp command means “Copy”. The -r stands for recursive. This means that the command will copy all the files including files inside the subfolders.
 
