@@ -37,7 +37,10 @@ Cron is a Unix utility that allows tasks to be run automatically in the backgrou
 
 This is telling the program to execute your program each time at startup. The syntax is simply @reboot <path of file>. Once you are done, your crontab should look something like this:
 
-screenshot-from-2016-10-05-09_59_09Save your changes and reboot the system. After it restarts, plug in an external device. You should see a folder with your username show up in the Downloads folder. When you open the folder, you’ll see a folder with a mix of letters and numbers. This is simply the name given to your device.
+
+![Alt text](https://jiajieli.files.wordpress.com/2016/10/screenshot-from-2016-10-05-09_59_09.png)
+
+Save your changes and reboot the system. After it restarts, plug in an external device. You should see a folder with your username show up in the Downloads folder. When you open the folder, you’ll see a folder with a mix of letters and numbers. This is simply the name given to your device.
 
 screenshot-from-2016-10-05-10_07_35The program also works with Bash. If you prefer Bash, simply do the following:
 
